@@ -1,0 +1,50 @@
+.container{
+    padding-top: 40px;
+    padding-bottom: 12%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.fixed-top{
+    position: fixed;
+    top: 20px;
+    right: 10px;
+    left: 10px;
+    padding-bottom: 20px 40px;
+   
+}
+.buy-now{
+    background-color: #21b573;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.learn{
+    color: red;
+}
+.as{
+    color: #21b573;
+}
+.size{
+    font-size: 80px;
+    text-align: var(--bs-body-text-align);
+    line-height: 1.2;
+}
+.green-bg{
+    background-color: #f0fff0; 
+    background-size: 100px ;
+
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px rgba(1, 42, 33, 0.89);
+}
+.end{
+    margin-top: 50px;
+    background-color: rgb(44, 16, 44);
+    width: 100%;
+    color: white
+}
